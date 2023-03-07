@@ -12,3 +12,5 @@ console.log("Practicing my git commands");
 //we should not init the repo inside another repo 
 //git commit -local repo 
 //git push -remote repo (git hub)
+//git branch -M main
+//git remote add origin 
